@@ -1,0 +1,5 @@
+﻿  connect_bd.cpp
+  ВНУТРЕННЯЯ ОШИБКА КОМПИЛЯТОРА в "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\HostX64\x64\CL.exe"
+      Выберите команду "Техническая поддержка" в меню "Справка" Visual C++ или
+      откройте справочный файл технической поддержки для получения доп. сведений
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(755,5): error MSB6006: "CL.exe" завершилась с кодом -1073741819.
